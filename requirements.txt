@@ -1,0 +1,4 @@
+chromadb
+openai==0.28
+sentence-transformers
+transformers
